@@ -1,0 +1,14 @@
+{
+  "name": "darktone-calendar",
+  "repo": "component/darktone-calendar",
+  "description": "Darktone calendar theme",
+  "version": "0.0.1",
+  "keywords": ["darktone", "theme", "calendar"],
+  "dependencies": {},
+  "development": {
+    "component/calendar": "*"
+  },
+  "styles": [
+    "style.css"
+  ]
+}
