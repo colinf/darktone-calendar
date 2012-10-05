@@ -20,6 +20,7 @@
 .calendar-table {
   background: #4c4c4c;
   float: left;
+  margin: 0;
   font-size: 1em;
   border-bottom: 1px solid #656565;
   -o-border-radius: 5px;
