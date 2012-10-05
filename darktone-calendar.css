@@ -4,6 +4,8 @@
   text-decoration: none;
   color: white;
 }
+.calendar-table thead td.prev a:hover,
+.calendar-table thead td.next a:hover,
 .calendar-table tbody td a:hover,
 .calendar-table tbody td a.prev-day:hover,
 .calendar-table tbody td a.next-day:hover {
@@ -33,6 +35,7 @@
   background: -o-linear-gradient(#3f3f3f, #1a1a1a);
   padding: 0;
 }
+.calendar-table thead td a,
 .calendar-table tbody td a {
   color: white;
   border: 1px solid #4c4c4c;
