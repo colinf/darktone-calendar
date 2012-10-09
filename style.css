@@ -1,8 +1,21 @@
+.tip {
+  font-size: 1em
+}
+
 .calendar a {
   display: block;
   padding: 5px;
   text-decoration: none;
   color: white
+}
+
+.calendar-table thead td.title {
+  font-size: 0.9em
+}
+
+.calendar-table thead tr.subheading {
+  font-size: 0.8em;
+  font-weight: strong
 }
 
 .calendar-table thead td.prev a:hover,
