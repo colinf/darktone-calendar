@@ -2,6 +2,12 @@
 .tip {
   font-size: 1em;
 }
+.popover-title {
+  background: #4c4c4c;
+  color: white;
+  padding: 10px 0;
+  text-align: center;
+}
 /* Datepicker end */
 
 .calendar a {
